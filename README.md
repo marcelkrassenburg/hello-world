@@ -2,6 +2,6 @@
 Toelichting ....
 
 ## Eerste hoofdstuk
-Met tekst
+Zonder tekst
 
 ### Eerste paragraaf
